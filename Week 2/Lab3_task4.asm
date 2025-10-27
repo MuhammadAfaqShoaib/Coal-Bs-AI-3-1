@@ -1,0 +1,9 @@
+mov ax,'a'
+mov bx,'f'
+mov cx,'a'
+mov dx,'q'
+sub bx,ax
+add ax,bx
+sub dx,cx
+add cx,dx
+add ax,bx,cx,dx
