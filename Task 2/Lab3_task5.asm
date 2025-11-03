@@ -1,0 +1,9 @@
+mov ax,3243h
+mov bx,0987h
+mov cx,4567h
+mov dx,6754h
+sub bx,ax
+add ax,bx
+sub dx,cx
+add cx,dx
+add ax,bx,cx,dx
